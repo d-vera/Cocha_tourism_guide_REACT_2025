@@ -1,0 +1,14 @@
+.custom-purple {
+  
+    color: #6f42c1 !important;
+}
+.btn-custom-purple {
+    background-color: #6f42c1 !important;
+    border-color: #6f42c1 !important;
+    color: #fff !important;
+}
+@media (max-width: 767.98px) {
+    .position-absolute.bottom-0 {
+        margin-bottom: 0.5rem;
+    }
+}
